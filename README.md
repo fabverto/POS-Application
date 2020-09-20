@@ -9,3 +9,4 @@ The category, product and part drop down menus update dynamically fetching infor
 
 Code hasn't been tested for bugs.
 
+![](/POS.PNG)<br />
