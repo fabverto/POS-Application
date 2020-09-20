@@ -1,0 +1,60 @@
+span{
+	color: red;
+}
+
+body{
+	background-color: #bdbfc1;
+}
+
+label .block {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+}
+
+select{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+       width: 30%;
+}
+
+button{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	width: 5rem;
+	height: 2rem;
+}
+
+.red-text{
+	color: red;
+}
+
+td {
+	width: 200px;
+	text-align: center;
+	border: 2px solid black;
+	padding: 3px;
+	margin: 2px;
+}
+
+#inventory{
+	background-color: #9494b8;
+}
+
+h1{
+	text-align: center;
+}
+
+table{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#inventoryTitle{
+	background-color: #9494b8;
+}
